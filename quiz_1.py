@@ -15,4 +15,3 @@ def remove_capital(sentence):
             result += word
     return(result)
 
-remove_capital("I am a God")
